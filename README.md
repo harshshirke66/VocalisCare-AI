@@ -1,5 +1,4 @@
 # VocalisCare-AI
-# VocalisCare-AI
 🌐 Website: (https://vocaliscarewebsite.vercel.app/)  
 
 **VocalisCare AI** is an advanced healthcare AI application designed to provide comprehensive assistance through voice commands in any language. Powered by **Google Gamini**, it leverages cutting-edge artificial intelligence to make healthcare accessible, multilingual, and user-friendly. Developed by **Team Cybertrone**, the solution also includes features like live location-based hospital search and a medicine scanner for quick and accurate medication information.
