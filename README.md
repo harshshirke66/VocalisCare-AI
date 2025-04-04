@@ -68,7 +68,7 @@
 
 ## 📸 Screenshots
 
-<Insert screenshots here – homepage, interaction, medicine scan, hospital locator>
+![Homepage](https://i.ibb.co/pryXCrTv/HOME-PAGE.png)
 
 ---
 
