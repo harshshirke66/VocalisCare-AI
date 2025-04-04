@@ -67,9 +67,13 @@
 ---
 
 ## 📸 Screenshots
-
+### 🏠 Homepage
 ![Homepage](https://i.ibb.co/pryXCrTv/HOME-PAGE.png)
+
+### 💬 Interaction
 ![Interaction](https://i.ibb.co/8gRbrKZv/INTERACTION.png)
+
+### 💊 Medicine Scanner
 ![Medicine Scan](https://i.ibb.co/FkL4GbDd/MEDICINE-SCAN.png)
 
 ## 📌 Disclaimer
