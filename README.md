@@ -13,50 +13,50 @@
 
 ## ✨ Features
 
-- 🔍 **AI Health Assistant** – Instant health queries, symptom analysis, and daily wellness tips
-- 🌐 **Multilingual Support** – 13+ languages with cultural localization
-- 🎙️ **Voice Interaction** – Speech-to-text input and natural text-to-speech responses
-- 💊 **Medicine Scanner** – Image-based recognition and safety guidelines
-- 🚑 **Emergency Assistance** – Symptom urgency detection and nearest hospital locator
-- 🧠 **Natural AI Conversation** – Powered by Gemini for human-like dialogue
+- 🔍 **AI Health Assistant** – Instant health queries, symptom analysis, and daily wellness tips  
+- 🌐 **Multilingual Support** – 13+ languages with cultural localization  
+- 🎙️ **Voice Interaction** – Speech-to-text input and natural text-to-speech responses  
+- 💊 **Medicine Scanner** – Image-based recognition and safety guidelines  
+- 🚑 **Emergency Assistance** – Symptom urgency detection and nearest hospital locator  
+- 🧠 **Natural AI Conversation** – Powered by Gemini for human-like dialogue  
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 🧑‍💻 Frontend
-- **React 18** + **TypeScript**
-- **Vite** – Fast build tool
-- **Tailwind CSS** – Custom styling & animations
-- **Lucide React** – Modern icon set
+- **React 18** + **TypeScript**  
+- **Vite** – Fast build tool  
+- **Tailwind CSS** – Custom styling & animations  
+- **Lucide React** – Modern icon set  
 
 ### 🤖 AI / ML Integration
-- **Google Gemini Pro & Gemini Pro Vision**
-- `@google/generative-ai` for text + image understanding
-- **Web Speech API** for voice interactions
+- **Google Gemini Pro & Gemini Pro Vision**  
+- `@google/generative-ai` for text + image understanding  
+- **Web Speech API** for voice interactions  
 
 ### 🧩 Other Tools
-- React Hooks for state management
-- Responsive design for mobile & desktop
-- Geolocation services for hospital detection
+- React Hooks for state management  
+- Responsive design for mobile & desktop  
+- Geolocation services for hospital detection  
 
 ---
 
 ## 🔁 User Flow Overview
 
-1. Accept disclaimer → land on the home interface
-2. Choose interaction: Text / Voice / Image
-3. Receive instant, localized response
-4. Emergency detection → Show nearest hospital
+1. Accept disclaimer → land on the home interface  
+2. Choose interaction: Text / Voice / Image  
+3. Receive instant, localized response  
+4. Emergency detection → Show nearest hospital  
 
 ---
 
 ## 👨‍👩‍👧‍👦 Team: **Team HealthVoice AI**
 
-- 👑 **Harsh Shirke** – *Team Leader, Developer*
-- 💡 Sengupta Jayavrata 
-- 🎨 Mohit Jangid 
-- 🔍 Jatin Mewada 
+- 👑 **Harsh Shirke** – *Team Leader, Developer*  
+- 💡 Sengupta Jayavrata  
+- 🎨 Mohit Jangid  
+- 🔍 Jatin Mewada  
 
 ---
 
@@ -66,15 +66,30 @@
 
 ---
 
+## 🎥 Project Demo
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=K0Fipz6brFM" target="_blank">
+    <img src="https://img.youtube.com/vi/K0Fipz6brFM/0.jpg" alt="Watch Demo Video" width="600"/>
+  </a>
+</p>
+
+[▶ Watch on YouTube](https://www.youtube.com/watch?v=K0Fipz6brFM)
+
+---
+
 ## 📸 Screenshots
-### 🏠 Homepage
+
+### 🏠 Homepage  
 ![Homepage](https://i.ibb.co/pryXCrTv/HOME-PAGE.png)
 
-### 💬 Interaction
+### 💬 Interaction  
 ![Interaction](https://i.ibb.co/8gRbrKZv/INTERACTION.png)
 
-### 💊 Medicine Scanner
+### 💊 Medicine Scanner  
 ![Medicine Scan](https://i.ibb.co/FkL4GbDd/MEDICINE-SCAN.png)
+
+---
 
 ## 📌 Disclaimer
 
@@ -84,5 +99,5 @@
 
 ## 🌟 Star this repo to support us!
 
----
+
 
