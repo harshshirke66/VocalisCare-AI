@@ -81,7 +81,7 @@
 ## 📸 Screenshots
 
 ### 🏠 Homepage  
-![Homepage](https://i.ibb.co/pryXCrTv/HOME-PAGE.png)
+![Homepage](https://i.ibb.co/Vcf9M7Rn/HOME-PAGE.png)
 
 ### 💬 Interaction  
 ![Interaction](https://i.ibb.co/8gRbrKZv/INTERACTION.png)
